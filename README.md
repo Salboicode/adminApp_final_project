@@ -3,6 +3,8 @@
 ![Admin add category](https://github.com/Salboicode/adminApp_final_project/assets/136092854/8b9e3954-eb24-4521-b6c1-4df3eef47483)
 ![Admin courses](https://github.com/Salboicode/adminApp_final_project/assets/136092854/e0912b87-c337-47a2-8e67-943ff507adc2)
 ![Admin add new courses](https://github.com/Salboicode/adminApp_final_project/assets/136092854/fdb40335-8c41-4779-b3a6-b1e0668dccf7)
+![database](https://github.com/Salboicode/adminApp_final_project/assets/136092854/baf3fc45-32a0-4dd1-b98a-fd9050ada53b)
+![Auth](https://github.com/Salboicode/adminApp_final_project/assets/136092854/c3405245-4f39-4120-9755-5c5665bde015)
 
 A new Flutter project.
 
